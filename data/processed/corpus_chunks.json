@@ -1,0 +1,230 @@
+[
+  {
+    "text": "The chairperson called the meeting to order and asked each team member to share their update.",
+    "source": "builtin_inclusive_0",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Every employee is required to submit their timesheet by the end of the week.",
+    "source": "builtin_inclusive_1",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The firefighter arrived on the scene and immediately began assessing the situation.",
+    "source": "builtin_inclusive_2",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "A police officer should treat every citizen with respect, regardless of their background.",
+    "source": "builtin_inclusive_3",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The spokesperson confirmed that the organization would release a statement later in the day.",
+    "source": "builtin_inclusive_4",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Each team member brought their unique perspective to the discussion.",
+    "source": "builtin_inclusive_5",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The manager asked the staff to coordinate their schedules for the upcoming project.",
+    "source": "builtin_inclusive_6",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The nurse reviewed the patient's chart and noted any changes in their condition.",
+    "source": "builtin_inclusive_7",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Every doctor should communicate clearly with their patients about treatment options.",
+    "source": "builtin_inclusive_8",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The surgeon briefed their team before entering the operating room.",
+    "source": "builtin_inclusive_9",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "A healthcare provider should respect the privacy of each of their patients.",
+    "source": "builtin_inclusive_10",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Each student should feel comfortable expressing their opinions in class.",
+    "source": "builtin_inclusive_11",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The teacher encouraged every learner to pursue their academic goals.",
+    "source": "builtin_inclusive_12",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "A principal must ensure their school provides a safe environment for all students.",
+    "source": "builtin_inclusive_13",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Every researcher should cite their sources accurately in academic work.",
+    "source": "builtin_inclusive_14",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The lawyer advised their client to remain silent until further notice.",
+    "source": "builtin_inclusive_15",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "A judge must consider all evidence before delivering their verdict.",
+    "source": "builtin_inclusive_16",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Every witness has the right to have their testimony heard in court.",
+    "source": "builtin_inclusive_17",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "A person should feel free to express their identity without fear of judgment.",
+    "source": "builtin_inclusive_18",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Each individual deserves to be treated with dignity and respect.",
+    "source": "builtin_inclusive_19",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Someone left their umbrella on the train; they should contact lost and found.",
+    "source": "builtin_inclusive_20",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Every child has the right to receive quality education in their community.",
+    "source": "builtin_inclusive_21",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The author published their first novel after years of dedicated writing.",
+    "source": "builtin_inclusive_22",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "A pilot must complete their pre-flight checklist before every departure.",
+    "source": "builtin_inclusive_23",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The engineer presented their design to the review committee.",
+    "source": "builtin_inclusive_24",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "Each athlete trained hard to improve their personal best.",
+    "source": "builtin_inclusive_25",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The journalist filed their report before the evening deadline.",
+    "source": "builtin_inclusive_26",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "A chef must ensure their kitchen meets all health and safety standards.",
+    "source": "builtin_inclusive_27",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The physician told the patient that they would need to schedule a follow-up appointment.",
+    "source": "builtin_winobias_0",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The nurse said they would administer the medication after lunch.",
+    "source": "builtin_winobias_1",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The construction worker finished their shift and headed home.",
+    "source": "builtin_winobias_2",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The receptionist greeted each visitor and asked them to sign in.",
+    "source": "builtin_winobias_3",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The accountant reviewed their client's financial statements carefully.",
+    "source": "builtin_winobias_4",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The programmer stayed late to debug the issue in their code.",
+    "source": "builtin_winobias_5",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The librarian helped the student find the books they were looking for.",
+    "source": "builtin_winobias_6",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The housekeeper made sure every room was cleaned before the guests arrived.",
+    "source": "builtin_winobias_7",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The cook prepared a meal that satisfied every diner's dietary needs.",
+    "source": "builtin_winobias_8",
+    "chunk_id": 0,
+    "start_char": -1
+  },
+  {
+    "text": "The analyst presented their quarterly findings to the board.",
+    "source": "builtin_winobias_9",
+    "chunk_id": 0,
+    "start_char": -1
+  }
+]
